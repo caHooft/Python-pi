@@ -1,1 +1,5 @@
-print("fuck yes mijn ide werkt")
+
+def main(msg):
+    print(msg)
+
+main("Hello People")
